@@ -6,3 +6,5 @@ if input1 == "1" and input2 == "1":
 
 else:
     print(False)
+    
+print("Thank you for using the and_gate simulator")
